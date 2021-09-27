@@ -83,7 +83,7 @@ class SpringbootBackendApplicationTests {
 		
 	}
 	
-	
+	/*
 	@Test
 	public void testDelete () {
 		
@@ -91,7 +91,7 @@ class SpringbootBackendApplicationTests {
 		assertThat(repo.existsById(14L)).isFalse();
 	}
 	
-	
+	*/
 	
 	
 	
